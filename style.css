@@ -1,0 +1,27 @@
+.titulo-1 {
+    color: #ff0000; /* Color rojo */
+    font-size: 36px; /* Tamaño de fuente grande */
+    text-align: center; /* Centrar el texto */
+    margin-top: 50px; /* Espacio superior */
+}
+
+.titulo-2 {
+    color: #0000ff; /* Color azul */
+    font-size: 28px; /* Tamaño de fuente mediano */
+    text-align: center; /* Centrar el texto */
+    margin-top: 30px; /* Espacio superior */
+}
+#parrafo-1 {
+    color: #6c0505; /* Color gris oscuro */
+    font-size: 18px; /* Tamaño de fuente normal */
+    line-height: 1.5; /* Altura de línea para mejorar la legibilidad */
+    margin: 20px auto; /* Espacio superior e inferior y centrado horizontal */
+    width: 80%; /* Ancho del párrafo */
+}
+#parrafo-2 {
+    color: #047e1a; /* Color gris oscuro */
+    font-size: 18px; /* Tamaño de fuente normal */
+    line-height: 1.5; /* Altura de línea para mejorar la legibilidad */
+    margin: 20px auto; /* Espacio superior e inferior y centrado horizontal */
+    width: 80%; /* Ancho del párrafo */
+}
